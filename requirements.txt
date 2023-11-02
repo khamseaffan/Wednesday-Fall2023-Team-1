@@ -10,6 +10,7 @@ coverage==6.5.0
 coveralls==3.3.1
 deprecation==2.1.0
 Django==4.2.5
+django-extensions==3.2.3
 flake8==6.1.0
 frozenlist==1.4.0
 gensim==4.3.2
